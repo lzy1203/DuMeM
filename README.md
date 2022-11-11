@@ -1,4 +1,4 @@
-# DuMeM
+# DuMeM数据标注指南
 ## 任务概要
 一人分饰user和bot两角进行3个session的对话，session 1的内容包括但不限于user/bot的画像信息、user/bot经历的事件以及user教给bot的一些信息等，在Session 2 和 Session 3中模拟间隔一段时间后user和bot之间再次进行聊天(熟人)的场景。
 ![image](https://user-images.githubusercontent.com/102587634/201256893-74cdac91-8068-4b0f-8651-401f9f1c20f2.png)
