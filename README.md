@@ -21,9 +21,9 @@
 * Session 1, Session 2, Session 3， **每段对话至少4轮对话，最后一句都是bot来结束**；
 * 在 Session 2 和 Session 3 的标注时，需要注意：
    * user尽量少主动提及历史信息，由bot来主动提及，体现bot的记忆性；
-   * bot主动提及的位置有两个：bot在<font color=red>Session中间主动提及<font>(user首句开始，bot在聊天中主动提及) 和  bot在**Session首句**主动提及(bot首句开始就主动提及记忆)两种方式。
-      * 标注时**主要标注bot在Session中间**主动提及(占绝大多数)；
-      * 同时如果bot在**Session首句**主动提及记忆内容时，需要第一句话提及记忆时话术要比较自然，不能太突兀(毕竟是开启新session)。
+   * bot主动提及的位置有两个：bot在<font color=red>Session中间主动提及<font>(由user首句开始聊天，bot在聊天session中间主动提及记忆) 和  bot在**Session首句**主动提及(由bot首句开始，第一句就主动提及记忆)两种方式。
+      * 主要标注**bot在Session中间**主动提及 (需要占绝大多数)；
+      * 同时，如果bot在**Session首句**主动提及记忆内容时，需要第一句话提及记忆时话术要比较自然，不能太突兀(毕竟是开启新session)。
 * Session 2，Session 3 在编写过程中，不能与对话历史的内容发生冲突或者重复提问，需要保持一致；
 * 编写的话术要灵活自然、多样、正面、积极
 
