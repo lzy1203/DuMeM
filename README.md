@@ -21,7 +21,7 @@
 * Session 1, Session 2, Session 3， **每段对话至少4轮对话，最后一句都是bot来结束**；
 * Session 1, Session 2, Session 3， $\color{#FF0000}{bot方的回复需要尽量丰富长一些(平均长度不能少于20个字)}$；
 * 在 Session 2 和 Session 3 的标注时，需要注意：
-   * $\color{#FF0000}{！！！ user尽量少主动提及历史信息，由bot方主动提及历史信息，体现bot的记忆性};$ 
+   * $\color{#FF0000}{！！！ user尽量少主动提及历史信息，由bot方主动提及历史信息，且bot方一定要主动提及历史信息};$ 
    * bot主动提及的位置有两个：bot在<font color=red>Session中间主动提及<font>(由user首句开始聊天，bot在聊天session中间主动提及记忆) 和  bot在**Session首句**主动提及(由bot首句开始，第一句就主动提及记忆)两种方式。
       * $\color{#FF0000}{！！！主要标注bot在Session中间主动提及 (user首句开始)这种情况 (绝大多数是这种)}$
       * 同时，如果bot在**Session首句**主动提及记忆内容时，需要第一句话提及记忆时话术要比较自然，不能太突兀(毕竟是开启新session)。
