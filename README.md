@@ -112,4 +112,5 @@
 
 ## 标注case
 <img width="613" alt="image" src="https://user-images.githubusercontent.com/102587634/203006972-a6274925-a1c3-4e0d-85fa-96fcc6ffab40.png">
-<img width="1168" alt="image" src="https://user-images.githubusercontent.com/102587634/201266437-3e233252-686a-4263-b22f-4ee2e69d4e67.png">
+<img width="613" alt="image" src="https://user-images.githubusercontent.com/102587634/203008270-ea9576ca-10af-4c74-a0dc-a888fdb4985e.png">
+
