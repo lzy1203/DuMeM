@@ -117,3 +117,6 @@
 <img width="613" alt="image" src="https://user-images.githubusercontent.com/102587634/203006972-a6274925-a1c3-4e0d-85fa-96fcc6ffab40.png">
 <img width="613" alt="image" src="https://user-images.githubusercontent.com/102587634/203008270-ea9576ca-10af-4c74-a0dc-a888fdb4985e.png">
 
+
+备注：
+由于网络服务有时候不稳定，会出现突然刷新现象。出现这种情况可以暂时在线下书写好对应部分的session以及复制对应的间隔时间1/2，然后再通过标注页面重新提交对应的部分。
